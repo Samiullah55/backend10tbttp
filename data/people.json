@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"samiullah",
+        "age":22,
+        "YOB":2001,
+        "bio":"i am a fullstack developer"
+    },
+    {
+        "id":2,
+        "name":"hamza",
+        "age":25,
+        "YOB":1997,
+        "bio":"i am a flutter developer"
+    },
+    {
+        "id":3,
+        "name":"haris",
+        "age":24,
+        "YOB":1998,
+        "bio":"i am an android developer"
+    }
+]
